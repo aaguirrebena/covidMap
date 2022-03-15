@@ -1,0 +1,38 @@
+.card {
+	flex: 1;
+	cursor: pointer;
+}
+
+.card:hover {
+	background-color: lightgray;
+}
+
+.card:not(:last-child) {
+	margin-right: 15px;
+}
+
+.card__cases {
+	color: #cc1034;
+	font-weight: 600;
+	font-size: 1.75rem;
+	margin-bottom: 0.5rem;
+}
+
+.card__cases--green {
+	color: lightgreen !important;
+}
+
+.card__total {
+	color: #6c757d;
+	font-weight: 700 !important;
+	font-size: 0.8 !important;
+	margin-top: 15px !important;
+}
+
+.card--selected {
+	border-top: 10px solid greenyellow;
+}
+
+.card--red {
+	border-color: red;
+}
