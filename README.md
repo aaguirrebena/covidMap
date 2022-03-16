@@ -1,4 +1,4 @@
-Access from firebase [Link](hottps://covid19-map-1fd49.firebaseapp.com/)
+Access from firebase [Link](https://covid19-map-1fd49.firebaseapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
